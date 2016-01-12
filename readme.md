@@ -33,8 +33,6 @@ php artisan key:generate
 Step5 :
 php artisan serve
 
-###FAQ
-
 ###Email
 
 andyNumber10@gmail.com
