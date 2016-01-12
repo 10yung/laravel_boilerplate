@@ -10,8 +10,22 @@ Documentation for the framework can be found on the
 
 ## Contributing
 
-I just combine these package for convience
+I just combine these packages for convience
 
-### FAQ
+### Step
 
 Welcome to clone my project, and you should check your composer, npm, bower, gulp install gobally on your computer.
+
+Step1 :
+git clone https://github.com/andyNo10/tengslaravel_material.git
+
+Step2 :
+composer install
+(open commend line and install vendor)
+
+Step3 :
+change the .env.example file to .env file
+
+Step4 :
+php artisan key:generate
+(open commend line and change app key or you may have cipher problem)
