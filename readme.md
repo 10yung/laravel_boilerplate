@@ -40,4 +40,4 @@ php artisan serve
 andyNumber10@gmail.com
 
 
-If you got any problem. Feel free to contact me.
+If you have any problem. Feel free to contact me.
