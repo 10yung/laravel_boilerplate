@@ -29,3 +29,8 @@ change the .env.example file to .env file
 Step4 :
 php artisan key:generate
 (open commend line and change app key or you may have cipher problem)
+
+Step5 :
+php artisan serve
+
+Well down
