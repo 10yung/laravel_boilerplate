@@ -12,7 +12,7 @@ Documentation for the framework can be found on the
 
 I just combine these packages for convience
 
-### Step
+### Step by Step
 
 Welcome to clone my project, and you should check your composer, npm, bower, gulp install gobally on your computer.
 
@@ -33,4 +33,11 @@ php artisan key:generate
 Step5 :
 php artisan serve
 
-Well down
+###FAQ
+
+###Email
+
+andyNumber10@gmail.com
+
+
+If you got any problem. Feel free to contact me.
