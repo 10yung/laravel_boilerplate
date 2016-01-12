@@ -35,7 +35,7 @@
     <body>
         <div class="container-fluid text-center">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">Laravel 5.1 with bootstrap material</div>
             </div>
         </div>
     </body>
