@@ -17,7 +17,7 @@ I just combine these packages for convience
 Welcome to clone my project, and you should check your composer, npm, bower, gulp install gobally on your computer.
 
 ＊Step1 :
-git clone https://github.com/andyNo10/tengslaravel_material.git
+git clone https://github.com/andyNo10/laravel_boilerplate.git
 
 ＊Step2 :
 composer install
@@ -30,7 +30,7 @@ change the .env.example file to .env file
 php artisan key:generate
 (open commend line and change app key or you may have cipher problem)
 
-＊Step5 : 
+＊Step5 :
 php artisan serve
 
 ###Email
